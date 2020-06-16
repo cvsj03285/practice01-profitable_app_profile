@@ -1,4 +1,4 @@
-# practice01-profitable_app_profile
+# Guided Project - profitable_app_profile
 Profitable App Profiles for the App Store and Google Play Markets
 
 For this project, we'll pretend we're working as data analysts for a company that builds 
